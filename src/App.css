@@ -1,0 +1,30 @@
+.App {
+  text-align: center;
+}
+
+
+.func, .cls {
+  background-color: coral;
+  height: 7em;
+  width: 100%;
+  border-radius: 20px;
+}
+
+.external-css {
+  font-weight: bolder;
+}
+.btn {
+  height: 3em;
+  width: 20em;
+  background-color: aqua;
+  font-size: larger;
+  font-weight: bolder;
+  border-radius: 20px;
+  border: 3px groove red;
+}
+
+.buttons {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
